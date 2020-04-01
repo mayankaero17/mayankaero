@@ -319,7 +319,7 @@ a {
 
 .callbacks_nav.next {
   left: auto;
-   background:rgba(230, 230, 230, 0)  url("../images/right-arrow.png") no-repeat 0px 0px;
+   background:rgba(230, 230, 230, 0)  url("right-arrow.png") no-repeat 0px 0px;
   background-position: right top;
   right: 0;
   }
@@ -498,7 +498,7 @@ a.there-more:nth-child(1) {
 /*--//about--*/
 /*--services--*/
 .services {
-    background: url(../images/s1.jpg)no-repeat center;
+    background: url("s1.jpg")no-repeat center;
     background-size: cover;
 }
 .my-ser-left {
@@ -931,7 +931,7 @@ footer p a:hover{color:white;}
     height: 40px;
     border: none;
     text-indent: 100%;
-    background: url("../images/arr.png") no-repeat 0px 0px;
+    background: url("arr.png") no-repeat 0px 0px;
     background-size: 40px;
 }
 
