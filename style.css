@@ -1,11 +1,4 @@
 
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-
 html,
 body {
     padding: 0;
@@ -132,7 +125,7 @@ button#trigger-overlay {
 /*--//nav --*/
 /*-- Heading-1 --*/
 .header-outs {
-    background: url(../images/b4.jpg);
+    background: url(b4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
