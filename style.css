@@ -125,7 +125,7 @@ button#trigger-overlay {
 /*--//nav --*/
 /*-- Heading-1 --*/
 .header-outs {
-    background: url(b4.jpg);
+    background: url("b4.jpg");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -309,7 +309,7 @@ a {
   text-decoration: none;
     height: 53px;
     width: 53px;
-  background:rgba(230, 230, 230, 0) url("../images/left-arrow.png") no-repeat left top;
+  background:rgba(230, 230, 230, 0) url("left-arrow.png") no-repeat left top;
   margin-top: -45px;
   }
 
