@@ -116,7 +116,7 @@ button#trigger-overlay {
 .hedder-logo{display:inline-block;}
 .hedder-logo h1 a{
   font-size: 49px;
-    color: #191970 !important;
+    color: #fff !important;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 2px;
@@ -216,12 +216,12 @@ button#trigger-overlay {
 
 .rslides_tabs .rslides_here a {
   background: rgba(255,255,255,.1);
-  color: #191970;
+  color: #fff;
   font-weight: bold;
   }
 
 a {
-  color: #191970;
+  color: #fff;
   text-decoration: none;
   }
 
@@ -279,14 +279,14 @@ a {
   }*/
  .slider-info{
     background:rgba(0, 0, 0, 0);
-    color: #191970;
+    color: #fff;
 	z-index: 999;
     text-align: center;
 	margin-top: 18em;
 }
  .slider-info h4{
 	 font-weight:400;
-    color: #191970;
+    color: #fff;
     font-size: 5.5em;
     letter-spacing: 3px;
 }
@@ -294,7 +294,7 @@ a {
     font-size: 20px;
     letter-spacing: 3px;
     padding: 16px 0px;
-    color: #191970;
+    color: #fff;
 }
 
 .callbacks_nav {
